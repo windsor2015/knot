@@ -1,0 +1,6 @@
+*.lammpstrj
+*.tar
+*.a
+*.o
+*.mod
+homply/Debug/*
